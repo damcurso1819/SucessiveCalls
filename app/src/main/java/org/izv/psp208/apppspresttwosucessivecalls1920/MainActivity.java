@@ -17,7 +17,7 @@ import org.izv.psp208.apppspresttwosucessivecalls1920.view.AppViewModel;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "xyz";
+    public static final String TAG = "xyzyz";
 
     private AppViewModel model;
     private Button btAdd;
